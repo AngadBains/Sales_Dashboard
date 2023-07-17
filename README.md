@@ -1,6 +1,6 @@
 # Sales_Dashboard
 
-Designed a Power BI Dashboard to understand hardware goods sales trends using SQL & Power BI.
+Designed a Dashboard to understand hardware goods sales trends using SQL & Power BI.
 
 The final dashboard was effective at displaying the sales trend, allowing users to understand this data and make informed decisions.
 
